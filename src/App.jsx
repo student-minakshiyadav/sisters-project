@@ -1,11 +1,11 @@
 import UserCard from "./components/UserCard.jsx"
 import { useState } from "react"
 import './App.css'
-import minupic from "../src/assets/minu.jpg"
-import hemupic from "../src/assets/hemu.jpg"
-import punampic from "../src/assets/punam.jpg"
-import payalpic from "../src/assets/payal.jpg"
-import pallavipic from "../src/assets/pallavi.jpeg"
+import minupic from "./assets/minu.jpg"
+import hemupic from "./assets/hemu.jpg"
+import punampic from "./assets/punam.jpg"
+import payalpic from "./assets/payal.jpg"
+import pallavipic from "./assets/pallavi.jpeg"
 
 
 function App() {
