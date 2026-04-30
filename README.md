@@ -1,21 +1,97 @@
-<<<<<<< HEAD
-# React + Vite
+# 💖 Sisters Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small React project built with love and emotions.
+It may look simple, but it holds a lot of memories and feelings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 About the Project
 
-## React Compiler
+The *Sisters Project* is a personal project created to showcase special moments, memories, and emotions through images and simple UI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> "This is a small project, but it holds a lot of emotions." ❤️
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# sisters-project
-This project for my sisters
->>>>>>> bf7490d7fb12b2a690e2b94433dd99fd0132be0d
+## 🚀 Features
+
+* 📸 Display of images with clean UI
+* ⚛️ Built using React (Vite)
+* 💡 Simple and beginner-friendly project
+* 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js
+* Vite
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+
+sisters-project/
+│── public/
+│── src/
+│   ├── assets/      # Images
+│   ├── components/  # React Components
+│   ├── App.jsx
+│   └── main.jsx
+│── package.json
+│── vite.config.js
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+bash
+git clone https://github.com/student-minakshiyadav/sisters-project.git
+
+
+Go to project folder:
+
+bash
+cd sisters-project
+
+
+Install dependencies:
+
+bash
+npm install
+
+
+Run the project:
+
+bash
+npm run dev
+
+
+---
+
+## 🌐 Live Demo
+
+👉 GitHub Pages:
+https://student-minakshiyadav.github.io/sisters-project/
+
+
+---
+
+## 💖 Author
+
+*Minakshi Yadav*
+BCA Student | Frontend Learner | React Beginner
+
+---
+
+## ✨ Final Note
+
+This project is not just about code —
+it’s about emotions, memories, and l love.
